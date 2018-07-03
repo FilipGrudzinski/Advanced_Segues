@@ -12,6 +12,7 @@
 		14AABB9820EBF20C00FD8306 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14AABB9620EBF20C00FD8306 /* Main.storyboard */; };
 		14AABB9A20EBF20D00FD8306 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14AABB9920EBF20D00FD8306 /* Assets.xcassets */; };
 		14AABB9D20EBF20D00FD8306 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14AABB9B20EBF20D00FD8306 /* LaunchScreen.storyboard */; };
+		14AABBA520EBF37300FD8306 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14AABBA420EBF37300FD8306 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		14AABB9920EBF20D00FD8306 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14AABB9C20EBF20D00FD8306 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14AABB9E20EBF20D00FD8306 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14AABBA420EBF37300FD8306 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				14AABB9220EBF20C00FD8306 /* AppDelegate.swift */,
 				14AABB9420EBF20C00FD8306 /* ViewController.swift */,
 				14AABB9620EBF20C00FD8306 /* Main.storyboard */,
+				14AABBA420EBF37300FD8306 /* SecondViewController.swift */,
 				14AABB9920EBF20D00FD8306 /* Assets.xcassets */,
 				14AABB9B20EBF20D00FD8306 /* LaunchScreen.storyboard */,
 				14AABB9E20EBF20D00FD8306 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14AABBA520EBF37300FD8306 /* SecondViewController.swift in Sources */,
 				14AABB9520EBF20C00FD8306 /* ViewController.swift in Sources */,
 				14AABB9320EBF20C00FD8306 /* AppDelegate.swift in Sources */,
 			);
